@@ -15,6 +15,7 @@ public class first {
     @Test
     public void demo1(){
         System.out.println("demo111111");
+        System.out.println();
     }
 
     @Test(enabled = false)
